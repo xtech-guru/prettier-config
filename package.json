@@ -1,0 +1,9 @@
+{
+  "name": "@xtech/prettier-config",
+  "version": "1.0.0",
+  "description": "xTECH's Prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:xtech-guru/prettier-config.git",
+  "author": "xTECH <tech@xtech.guru>",
+  "license": "MIT"
+}
